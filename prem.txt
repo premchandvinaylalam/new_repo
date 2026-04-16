@@ -5,4 +5,8 @@ def chand(c,d):
         sub(a,b)
         a-b
 
+def vinay(a,b):
+        mul(a,b):
+        a*b
+
         
