@@ -1,0 +1,3 @@
+def prem(a,b):
+        sum(a,b):
+            a+b
