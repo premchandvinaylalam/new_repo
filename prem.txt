@@ -1,3 +1,8 @@
 def prem(a,b):
         sum(a,b):
             a+b
+def chand(c,d):
+        sub(a,b)
+        a-b
+
+        
